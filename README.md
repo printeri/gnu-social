@@ -4,6 +4,7 @@
 (c) Free Software Foundation, Inc
 (c) StatusNet, Inc
 
+asd
 This is the README file for GNU social, the free
 software social networking platform. It includes
 general information about the software and the
